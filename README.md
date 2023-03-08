@@ -6,4 +6,6 @@ My inspiration for this project came from my recent experience as a research ass
 
 The result is a stunning scatterplot that highlights the border lines for each county in Colorado, providing a clear picture of the population density in each area. The use of a color-scale adds an additional layer of detail, making it easy to understand the relative population sizes across the state.
 
+All files are attached, some of the cleaning was done in Excel as it was a relatively small dataset.
+
 Thank you for taking the time to explore my project. Please feel free to provide feedback or suggestions for improvements.
